@@ -1,4 +1,3 @@
-
 import "./Components/sectionComponent.js";
 
 const addButton = document.getElementById('button-addon2');
