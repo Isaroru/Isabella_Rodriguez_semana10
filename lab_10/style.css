@@ -1,0 +1,26 @@
+#title{
+  margin-bottom: 15px;
+}
+
+.input-group{
+  height: 50px;
+}
+
+header{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 100px;
+  margin-bottom: 20px;
+}
+.task{
+  display: flex;
+  height: 50px;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 8px;
+
+}
